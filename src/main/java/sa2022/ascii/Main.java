@@ -1,4 +1,4 @@
-package nju.ics.sa2022.ascii;
+package sa2022.ascii;
 
 public class Main {
 
